@@ -11,7 +11,6 @@ export default class SignUpPage {
     }
 
     public signUp = {
-        circulaLogo: "await page.locator('.sc-d0709d61-0').click();",
         trialPeriod: "Start your 14-day free trial",
         noCreditCardReq: "No credit card needed",
         selectTerms: "input[name='acceptTos']",
